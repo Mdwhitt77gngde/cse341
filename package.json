@@ -1,0 +1,20 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "my first project",
+  "homepage": "https://github.com/Mdwhitt77gngde/cse341#readme",
+  "bugs": {
+    "url": "https://github.com/Mdwhitt77gngde/cse341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdwhitt77gngde/cse341.git"
+  },
+  "license": "ISC",
+  "author": "David Whitten",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
