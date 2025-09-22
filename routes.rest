@@ -12,7 +12,7 @@ POST  http://localhost:3000/users HTTP/1.1
 Content-Type: application/json
 
 {
-    "email": "test@test.com",
+    "email": "test@example.com",
     "username": "test@test.com",
     "name": "Hello",
     "ipaddress": "94.121.163.63"
@@ -24,7 +24,7 @@ PUT  http://localhost:3000/users/68c0d0e9bf6dd992fb5d3c59 HTTP/1.1
 Content-Type: application/json
 
 {
-    "email": "test@test.com",
+    "email": "test@example.com",
     "username": "test@test.com",
     "name": "Hello",
     "ipaddress": "94.121.163.63"
